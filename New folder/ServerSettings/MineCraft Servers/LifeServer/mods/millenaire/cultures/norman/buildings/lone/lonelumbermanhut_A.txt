@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=15
+building.buildingorientation=3
+building.max=0
+building.showtownhallsigns=false
+
+building.icon=sapling
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Hutte de bûcheron
+initial.priority=5
+initial.male=lonelumberman
+initial.tag=grove
+initial.tag=cider
+initial.shop=lonelumberman
+

@@ -1,0 +1,186 @@
+cheat GMsummon "Achatina_Character_BP_C" 100|cheat GMsummon "Allo_Character_BP_C" 100|cheat GMsummon "Ankylo_Character_BP_C" 100|cheat GMsummon "SpiderS_Character_BP_C" 100|cheat GMsummon "Arthro_Character_BP_C" 100|cheat GMsummon "Baryonyx_Character_BP_C" 100|cheat GMsummon "Toad_Character_BP_C" 100|cheat GMsummon "Sauropod_Character_BP_C" 100|cheat GMsummon "Chalico_Character_BP_C" 100|cheat GMsummon "Turtle_Character_BP_C" 100|cheat GMsummon "Carno_Character_BP_C" 100|cheat GMsummon "Beaver_Character_BP_C" 100|cheat GMsummon "Compy_Character_BP_C" 100|cheat GMsummon "Daeodon_Character_BP_C" 100|cheat GMsummon "Dilo_Character_BP_C" 100|cheat GMsummon "Dimetro_Character_BP_C" 100|cheat GMsummon "Diplocaulus_Character_BP_C" 100|cheat GMsummon "Diplodocus_Character_BP_C" 100|cheat GMsummon "Direbear_Character_BP_C" 100|cheat GMsummon "Direwolf_Character_BP_C" 100|cheat GMsummon "Dodo_Character_BP_C" 100|cheat GMsummon "Doed_Character_BP_C" 100|cheat GMsummon "DungBeetle_Character_BP_C" 100|cheat GMsummon "Euryp_Character_C" 100|cheat GMsummon "Equus_Character_BP_C" 100|cheat GMsummon "Galli_Character_BP_C" 100|cheat GMsummon "Gigant_Character_BP_C" 100|cheat GMsummon "Bigfoot_Character_BP_C" 100|cheat GMsummon "Hyaenodon_Character_BP_C" 100|cheat GMsummon "Iguanodon_Character_BP_C" 100|cheat GMsummon "Kairuku_Character_BP_C" 100|cheat GMsummon "Kaprosuchus_Character_BP_C" 100|cheat GMsummon "Kentro_Character_BP_C" 100|cheat GMsummon "Lystro_Character_BP_C" 100|cheat GMsummon "Mammoth_Character_BP_C" 100|cheat GMsummon "Megalania_Character_BP_C" 100|cheat GMsummon "Stag_Character_BP_C" 100|cheat GMsummon "Megalosaurus_Character_BP_C" 100|cheat GMsummon "Monkey_Character_BP_C" 100|
+
+
+cheat GMsummon
+"Megatherium_Character_BP_C" 100|
+cheat GMsummon
+"Microraptor_Character_BP_C" 100|
+cheat GMsummon
+"Moschops_Character_BP_C" 100|
+cheat GMsummon
+"Otter_Character_BP_C" 100|
+cheat GMsummon
+"Oviraptor_Character_BP_C" 100|
+cheat GMsummon
+"Sheep_Character_BP_C" 100|
+cheat GMsummon
+"Pachy_Character_BP_C" 100|
+cheat GMsummon
+"Pachyrhino_Character_BP_C" 100|
+cheat GMsummon
+"Paracer_Character_BP_C" 100|
+cheat GMsummon
+"Para_Character_BP_C" 100|
+cheat GMsummon
+"Pegomastax_Character_BP_C" 100|
+cheat GMsummon
+"Phiomia_Character_BP_C" 100|
+cheat GMsummon
+"Procoptodon_Character_BP_C" 100|
+cheat GMsummon
+"Scorpion_Character_BP_C" 100|
+cheat GMsummon
+"Purlovia_Character_BP_C" 100|
+cheat GMsummon
+"Raptor_Character_BP_C" 100|
+cheat GMsummon
+"Saber_Character_BP_C" 100|
+cheat GMsummon
+"Sarco_Character_BP_C" 100|
+cheat GMsummon
+"Spino_Character_BP_C" 100|
+cheat GMsummon
+"Stego_Character_BP_C" 100|
+cheat GMsummon
+"TerrorBird_Character_BP_C" 100|
+cheat GMsummon
+"Therizino_Character_BP_C" 100|
+cheat GMsummon
+"Thylacoleo_Character_BP_C" 100|
+cheat GMsummon
+"BoaFrill_Character_BP_C" 100|
+cheat GMsummon
+"Titanosaur_Character_BP_C" 100|
+cheat GMsummon
+"Trike_Character_BP_C" 100|
+cheat GMsummon
+"Troodon_Character_BP_C" 100|
+cheat GMsummon
+"Rex_Character_BP_C" 100|
+cheat GMsummon
+"BionicPara_Character_BP_C" 100|
+cheat GMsummon
+"BionicRex_Character_BP_C" 100|
+cheat GMsummon
+"BionicRaptor_Character_BP_C" 100|
+cheat GMsummon
+"BionicStego_Character_BP_C" 100|
+cheat GMsummon
+"Rhino_Character_BP_C" 100|
+cheat GMsummon
+"Yutyrannus_Character_BP_C" 100|
+cheat GMsummon
+"Deathworm_Character_BP_C" 100|
+cheat GMsummon
+"Jerboa_Character_BP_C" 100|
+cheat GMsummon
+"Jugbug_Character_BaseBP_C" 100|
+cheat GMsummon
+"Jugbug_Oil_Character_BP_C" 100|
+cheat GMsummon
+"Jugbug_Water_Character_BP_C" 100|
+cheat GMsummon
+"Mantis_Character_BP_C" 100||
+cheat GMsummon
+"camelsaurus_Character_BP_C" 100|
+
+
+cheat GMsummon
+"Angler_Character_BP_C" 100|
+cheat GMsummon
+"Ammonite_Character_BP_C" 100|
+cheat GMsummon
+"Basilosaurus_Character_BP_C" 100|
+cheat GMsummon
+"Cnidaria_Character_BP_C" 100|
+cheat GMsummon
+"Coel_Character_BP_C" 100|
+cheat GMsummon
+"Dunkle_Character_BP_C" 100|
+cheat GMsummon
+"Dolphin_Character_BP_C" 100|
+cheat GMsummon
+"Eel_Character_BP_C" 100|
+cheat GMsummon
+"Leech_Character_BP_C" 100|
+cheat GMsummon
+"Leedsichthys_Character_C" 100|
+cheat GMsummon
+"Liopleurodon_Character_BP_C" 100|
+cheat GMsummon
+"Manta_Character_BP_C" 100|
+cheat GMsummon
+"Megalodon_Character_BP_C" 100|
+cheat GMsummon
+"Mosa_Character_BP_C" 100|
+cheat GMsummon
+"Piranha_Character_BP_C" 100|
+cheat GMsummon
+"Plesiosaur_Character_BP_C" 100|
+cheat GMsummon
+"Salmon_Character_BP_C" 100|
+cheat GMsummon
+"Trilobite_Character_BP_C" 100|
+cheat GMsummon
+"Tusoteuthis_Character_BP_C" 100|
+cheat GMsummon
+"Archa_Character_BP_C" 100|
+cheat GMsummon
+"Argent_Character_BP_C" 100|
+cheat GMsummon
+"Dimorph_Character_BP_C" 100|
+cheat GMsummon
+"Bee_Queen_Character_BP_C" 100|
+cheat GMsummon
+"Bee_Character_BP_C" 100|
+cheat GMsummon
+"Ichthyornis_Character_BP_C" 100|
+cheat GMsummon
+"Hesperornis_Character_BP_C" 100|
+cheat GMsummon
+"Dragonfly_Character_BP_C" 100|
+cheat GMsummon
+"Bat_Character_BP_C" 100|
+cheat GMsummon
+"Pela_Character_BP_C" 100|
+cheat GMsummon
+"Ptero_Character_BP_C" 100|
+cheat GMsummon
+"Quetz_Character_BP_C" 100|
+cheat GMsummon
+"Tapejara_Character_BP_C" 100|
+cheat GMsummon
+"Ant_Character_BP_C" 100|
+cheat GMsummon
+"FlyingAnt_Character_BP_C" 100|
+
+
+
+
+cheat GFI Artifact_12 1 0 0|cheat giveitemnum 152 1 0 0|cheat GFI Artifact_11 1 0 0|cheat giveitemnum 154 1 0 0|cheat giveitemnum 148 1 0 0|cheat giveitemnum 155 1 0 0|cheat giveitemnum 150 1 0 0|cheat giveitemnum 149 1 0 0|cheat giveitemnum 153 1 0 0|cheat giveitemnum 156 1 0 0|cheat GFI ApexDrop_Megalania 10 0 0|cheat giveitemnum 159 10 0 0|cheat giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Spino.PrimalItemResource_ApexDrop_Spino'" 25 0 0|cheat GFI ApexDrop_Theriz 10 0 0|cheat GFI ApexDrop_Thylaco 10 0 0|cheat giveitemnum 158 10 0 0|cheat giveitemnum 158 10 0 0|cheat giveitemnum 161 10 0 0|cheat GFI ApexDrop_Boa 10 0 0|cheat GFI ApexDrop_Allo 10 0 0|cheat GFI ApexDrop_Basilo 10 0 0|cheat GFI ApexDrop_Giga 10 0 0|cheat GFI ApexDrop_Tuso 10 0 0|cheat giveitemnum 160 25 0 0|cheat GFI ApexDrop_Yuty 10 0 0|cheat giveitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Sarco.PrimalItemResource_ApexDrop_Sarco'" 25 0 0
+
+
+
+
+889745138,633831197,895711211,1609138312,1273112284,731604991,821530042,812655342,1272757707,622608522,877596905,1521673583,1404697612,861066940,879034965,1818218046,833379388,764755314
+
+
+
+Spawn Codes
+Taming Tonic
+cheat giveitem cheat giveitem cheat giveitem "/Game/Mods/TamingTools/Drugs/TamingTonic/PrimalItemConsumable_TamingTonic.PrimalItemConsumable_TamingTonic" 100 0 0 false
+
+Refined Narcotics
+cheat giveitem "/Game/Mods/TamingTools/Drugs/RefinedNarcotic/PrimalItemConsumable_RefinedNarcotic.PrimalItemConsumable_RefinedNarcotic" 100 0 0 false
+
+Refined Tranq Arrow
+cheat giveitem "/Game/Mods/TamingTools/Ammo/TranqArrow_Refined/PrimalItemAmmo_ArrowRefinedTranq.PrimalItemAmmo_ArrowRefinedTranq" 100 0 0 false
+
+Injector Arrows (Empty)
+cheat giveitem "/Game/Mods/TamingTools/Ammo/InjectorArrow/PrimalItemAmmo_InjectorArrow.PrimalItemAmmo_InjectorArrow" 100 0 0 false
+
+Injector Tranq Arrow
+cheat giveitem "/Game/Mods/TamingTools/Ammo/InjectorArrow_Tranq/PrimalItemAmmo_InjectorArrow_Tranq.PrimalItemAmmo_InjectorArrow_Tranq" 100 0 0 false
+
+Injector Refined Tranq Arrows
+cheat giveitem "/Game/Mods/TamingTools/Ammo/InjectorArrow_TranqRefined/PrimalItemAmmo_InjectorArrow_TranqRefined.PrimalItemAmmo_InjectorArrow_TranqRefined" 100 0 0 false

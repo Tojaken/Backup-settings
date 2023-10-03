@@ -1,0 +1,74 @@
+version:4.8.0
+Japanische Gebäude
+
+<darkred>Dorfzentren
+
+<darkblue>Shuudannoujou: Große Farm
+Das Herz eines landwirtschaftlichen Dorfes in dem der Landwirt mit seiner Frau lebt. Die Dorfbewohner bringen Feldfrüchte, Holz und Stein zur Shuudannoujou.
+
+<darkblue>Bousai: Burg. 
+Dieses Gebäude bewohnt der Shuken und seine Frau. Es kann zu einer mächtigen Festung mit Wällen und Wachtürmen ausgebaut werden.
+
+<darkblue>Kumonjo: Kaiserliches Büro. 
+Die Japaner bauen riesige Kaiserliche Büros um ihre Dörfer zu verwalten. Der Aufseher und seine Frau wohnen hier welche Tag und Nacht über die Dörfer wachen. Hier werden alle Gebäudepläne entworfen sowie weitere Pläne und Vorschläge.
+
+<darkblue>Tsukurizakaya: Sake Brauerei. 
+Diese komplexe Struktur is dem brauen des berühmten, aus Reis hergestellten, Sake gewidmet. Hier wohnen und arbeiten der Meisterbrauer und seine Frau. Um die Brauerei herum entstand ein Handelsdorf.
+NEW_PAGE
+<darkred>Unterkünfte
+
+<darkblue>Shoko: Archive
+Dieses Gebäude beinhaltet alle Informationen der Bewohner des Dorfes.
+
+<darkblue>Tansetsu: Waffenschmiede
+Eine Tansetsu kann alle militärischen Waffen und Rüstungen der Japaner herstellen. Wie zum Beispiel das Tachi Schwert und den tödlichen Yumi Bogen, sowie eine aauswahl an Rüstungen. Sie benötigt einen Schmied der die Waffen und Rüstungen fertigt sowie seine Frau die alles Verkauft.
+
+<darkblue>Kajiya: Schmied
+Hier werden Eisenwerkzeuge hergestellt und Verkauft. Diese Werkzeuge werden benötigt damit andere Arbeiten schneller ausgeführt werden können. Auch Abenteurer können hier Werkzeuge kaufen.
+
+<darkblue>Shugi Ie: Handwerkshaus
+Produziert und verkauft Papier aus Reis. Stellt ausserdem Holzrahmen her und aus dem Papier hergestellte Papierwände welche im Haupthaus verkauft werden.
+
+<darkblue>Gyogyo und Tsuribori: Fischer
+Der Ryoushi oder Angler, verbringt seine Zeit an diesem Gebäude und fischt frische Fische für das Dorf.
+
+<darkblue>Kodachi: Hain
+Der japanische Kikori fällt hier Bäume.
+
+<darkblue>Shijin: Schenke
+Hier kommen Händler her und ruhen sich aus nachdem sie Güter aus anderen Dörfern brachten.
+
+<darkblue>Daidokoro: Küche
+hier wird Nahrung zubereitet und Udon gemacht. Außerdem kann hier Huhn und Fisch gekauft werden.
+
+<darkblue>Kikori Koya: Hütte des Holzfällers
+Hier wohnen der Holzfäller und seine Frau. Er fällt Bäume, bringt sie Heim und seine Frau liefert das Holz in das Dorfzentrum.
+
+<darkblue>Bourou: Aussichtsturm
+Der Aussichtsturm ist ein eher dekoratives Gebäude das meist am Rand der Dörfer gebaut wird. Der Hauptgrund für seinen Bau ist damit Wachen näherkommende Feinde früh entdecken können.
+
+<darkblue>Suiden: Reisfeld
+Hier pflanzen die Dorfbewohner Reis. Kultiviert wird er von Bauern und Frauen. Die Frauen bringen ihn zum Dorfzentrum wo er auch von Abenteurern gekauft werden kann.
+
+<darkblue>Buttou: Pagode
+Hier lebt der Souryo. Außerdem kommen die Dorfbewohner zum beten her.
+
+<darkblue>Noufu Ie: Bauernhaus
+Hier wohnen der Bauer und seine Frau.
+
+<darkblue>Saisekijou: Steinbruch
+Der Koufu und seine Frau leben hier. Hier wird Stein abgebaut und zum Dorfzentrum gebracht.
+
+<darkblue>Heisha: Wachhaus
+In diesem Haus lebt ein Kriefer oder eine Wache mit seiner Frau.
+
+<darkblue>Noujou Nojo: Weizenfarm
+Hier lebt der Weizenbauer mit seiner Frau. Er sammelt Weizen und baut diesen an.
+NEW_PAGE
+<darkred>Dekorative Gebäude
+
+<darkblue>Ike: Teich
+Ein dekoratives Gebäude. Nett daran vorbeizugehen.
+
+<darkblue>Soushi: Shinto Shrein
+Dieser kleine Schrein wird von Dorfbewohnern für ihre Gebete genutzt.

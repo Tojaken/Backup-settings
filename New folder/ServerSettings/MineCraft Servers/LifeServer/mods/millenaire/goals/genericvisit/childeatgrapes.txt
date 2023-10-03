@@ -1,0 +1,18 @@
+
+priority=0
+priorityrandom=15
+
+//Si vrai ("true"), ce but se passe dans le bâtiment central 
+//If true, this goal happens in the central building
+buildingTag=vineyard
+
+duration=20000
+
+//together with minimuhour limits it to once a day
+reoccurdelay=15000
+
+allowrandommoves=true
+
+leasure=true
+
+heldItemsDestination=grapes

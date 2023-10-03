@@ -1,0 +1,55 @@
+version:4.8.0
+Japanische Gegenstände
+
+<darkblue>Denier
+Nachdem die Japaner in diese Land kamen wechselten sie ihre Währung zu Denier. Denier gibt es in drei Werten: Denier (Bronze), Denier Argent (Silber), welche 64 Bronze wert sind and Denier Or (Gold), welche wiederum 64 Denier Argent wert sind.
+NEW_PAGE
+<darkred>Lebensmittel
+
+<darkblue>Reis
+Fad und geschmacklos, doch die Japaner ernten Ihn als gäbe es kein Morgen. Aus ihm wird Papier und der berühmte Sake hergestellt. Außerdem haben Japaner mehr Kinder wenn Sie Reis haben.
+
+<darkblue>Udon
+Ein mysteriöses Lebensmittel aus gekochtem Weizenteig.
+
+<darkblue>Sake
+Dieser aus Reis produzierte Alkohol wird nur in Handelsdörfern hergestellt. Er belebt Abenteurer und kann die Schwangerschaftsrate in Dörfern erhöhen.
+NEW_PAGE
+<darkred>Werkzeuge & Waffen
+
+<darkblue>Tachi Schwert
+Dieses Schwert verursacht den selben Schaden wie ein Eisenschert, kann allerdings kritische treffer mit 3-fachem Schaden landen. Gut zum besiegen zäher Gegner.
+
+<darkblue>Yumi Bogen
+Größer als der Englische Langbogen war er und ist noch immer der längste Bogen der Geschichte. Manche von ihnen bis zu 2,2 Meter lang. Dieser Bogen schiesst weiter und schneller als herkömmliche Bögen und hat auch eine höhere Genauigkeit. Außerdem kann er schneller Nachgeladen werden und verursacht mehr Schaden.
+
+<darkblue>Keiko Rüstung
+Dies ist die Rüstung von Soldaten. Sie ähnelt Kettenrüstungen die mit Leder verstärkt wurden. Eine starke Eisenrüstung, hält aber mehr aus.
+
+<darkblue>O-Yoroi Rüstung
+Diese Rüstung gibt es in zwei Verianten: Rot und Blau. Sie ist stärker als Eisen und so haltbar wie Diamant. Eine Rüstung für Anführer.
+NEW_PAGE
+<darkred>Bau & Dekoration
+
+<darkblue>Stroh
+Gemacht aus Weizenhalmen und genutzt um Dächer zu bedecken. Man kann auch bequem darauf Schlafen.
+
+<darkblue>Papierwand
+Eine dünne Schicht Papier, die von vier Stöckern gestreckt wird. Licht scheint durch, doch man kann nicht durchsehen. Zum dekorieren von Gebäuden und hergestellt aus Reispapier.
+
+<darkblue>Holzrahmen
+Die Japaner fertigen für Ihre Häuser einfache- und kreuz-Holzrahmen aus Erde und dunklem Holz.
+NEW_PAGE
+<darkred>Pergamente
+
+<darkblue>Japanische Dorfbewohner
+Eine Schriftrolle mit Beschreibungen der verschiedenen Dorfbewohner die dich wahrscheinlich töten sobald du Sie berührst..
+
+<darkblue>Japanische Gebäude
+Eine Schriftrolle mit Beschreibungen der verschiedenen Gebäude der Japaner.
+
+<darkblue>Japanische Gegenstände
+Du liest das gerade...
+
+<darkblue>Die Japaner
+Eine Zusammenfassung der drei Pergamente. Für leichteren Transport.

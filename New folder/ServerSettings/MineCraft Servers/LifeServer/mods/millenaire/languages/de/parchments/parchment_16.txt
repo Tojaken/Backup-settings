@@ -1,0 +1,82 @@
+version:4.8.0
+Japanische Bewohner
+
+<darkred>Dorfvorsteher
+
+<darkblue>Shuken しゅくん: Herr
+Dieser Mann lebt in einer ummauerten Festung von der aus er sein Volk regiert. Er kommt zur Patrullie heraus und um Monster zu töten. Außerdem verteidigt er sein Dorf bis zum Tod und wird jeden töten der es in Gefahr bringt.
+
+<darkblue>Kokushi こくし: Aufseher
+Der Kokushi leitet ein Dorf vom Kaiserlichen Büro aus. Er stellt sicher das alle hart arbeiten und regelmäßig beten. Desweiteren fordert er hohe Steuern von den Dorfbewohnern, doch da sie sehr religös und mich sich selbst in Frieden leben gibt es keine Beschwerden.
+
+<darkblue>Chōkan ちょうかん: Häuptling
+Dieser mann ist eigentlich ein Bauer doch die Japaner brauchen viel Nahrung und somit jemanden der ein landwirtschaftliches Dorf leitet. Er gehört zu den ältesten des Dorfes. Er berät die Dorfbewohner in landwirtschaftlichen fragen und hilft, es gegen Monster zu verteidigen.
+
+<darkblue>Touji: Meisterbrauer
+Dieser qualifizierte Handwerker produziert Sake, dessen bekanntheit den Wohlstand seines Handelsdorfes sichert.
+NEW_PAGE
+<darkred>Frauen
+
+<darkblue>Jojoufu じょじょうふ: Tapfere Frau
+Sie ist die Frau einer Wache oder eines Soldaten. Sie übernimmt normale Aufgaben wie das Bestellen der Felder oder das herstellen von Stroh. Aber wenn die Männer in den Kampf ziehen wird sie das Dorf bis zum letzten Atemzug verteidigen. Sei vorsichtig wenn du sie ansiehst, eine falsche Bewegund und das war's mit dir.
+
+<darkblue>Reifujin れいふじん: Dame
+Sie ist die Frau eines reichen Mannes, normalerweise der Leiter des Dorfes. Sie versucht gut auszusehen und macht sonst eigentlich nichts...
+
+<darkblue>Kuramoto: Frau des Brauers
+Diese Spezialistin der Sake Produktion arbeitet zusammen mit ihrem Ehemann in der Brauerei.
+
+<darkblue>Tsuma つま: Ehefrau
+Diese Frauen erfüllen Aufgaben die die Männer nicht machen wollen, wie sich um die Felder kümmern, Stroh herstellen oder Essen kochen. Es ist langweilige und harte Arbeit doch können sie sich auch nicht ohne Folgen beschweren. Andererseits würden die Dörfer ohne diese Frauen verhungern..
+NEW_PAGE
+<darkred>Männer
+
+<darkblue>Kikori きこり: Holzfäller
+Dieser Mann kennt seine Bäume und weiss welche er zu Baumaterialien verarbeiten kann. Er zieht alle Bäume vom Setzling aus heran, bis Sie groß genug sind um gefällt zu werden. Außerdem nimmt er an Überfällen auf andere Dörfer teil.
+
+<darkblue>Saikushi さいくし: Handwerker
+Der Handwerker stellt aus Reis Papier her und macht daraus wiederum Papierwände. Desweiteren stellt er Holzrahmen für das Dorf her. Ohne ihn würde das Dorf schrecklich trist wirken und nichts würde Plünderer bei Überfällen auf das Dorf ablenken.
+
+<darkblue>Hyakushou ひゃくしょう: Weizenbauer
+Dieser Mann pflanzt auf seinem Hof Weizen und lagert es für Nahrung. Er besitzt sein eigenes Stück Land und kümmert sich gut darum.
+
+<darkblue>Kaji かじ: Waffenschmied
+Der Kaji ist selbst Soldat. Begabt in der Kunst des schmiedens von Waffen und Rüstungen wurde ihm die Aufgabe übertragen Waffen zu schmieden die nicht brechen und Rüstungen die die schärfsten Klingen stoppen.
+
+<darkblue>Kajiya かじや: Schmied
+Der Kajiya ist ein Dörfler der sich mit der Schmiede auskennt und Werkzeugt für die alltäglichen Arbeiten im Dorf herstellt. Wenn seine Werkzeuge von guter Qualität sind und es eine hohe Nachfrage gibt kann er sehr reich werden.
+
+<darkblue>Bushi ぶし: Krieger
+Die Bushi-Klasse beinhaltet alle ausgebildeten Krieger der Armee der Heian-Zeit. Sie ziehen in den Krieg gegen andere Dörfer und haben entweder einen Yumi Bogen oder ein Tachi Schwert als Waffe. Sie zeigen keine Gnade und akzeptieren jede Herausforderung. 
+
+<darkblue>Keibou けいぼう: Wache
+Die Keibou schützen das Dorf vor Eindringlingen. Wenn nötig helfen sie auch im Krieg. Ihre Waffen sind auch ein Yumi Bogen oder Tachi Schwert. Man sollte sich nicht mit ihnen anlegen.
+
+<darkblue>Chounin ちょうにん: Händler
+Der Chounin handelt mit anderen Dörfen (mit Baumaterial, Nahrung usw.) und erhält dafür dringend benötigte Güter. Nach einem langem Tag entspannt der Chounin derne in einer gastfreundlichen Schenke.
+
+<darkblue>Ryoushi りょうし: Angler
+Ryoushi sind die Angler des Dorfes und angeln am See direkt vor ihrem Haus. Der Ryoushi hat manchmal kein Glück und kann seine tägliche Quote nicht erfüllen.
+
+<darkblue>Koufu こうふ: Bergarbeiter
+Der Koufu plagt sich mit dem Abbau von Stein und Sand. Mit seinem Schmelzofen stellt er außerdem Glas aus dem selbst abgebauten Sand her.
+
+<darkblue>Souryo そうりょ: Mönch
+Der Souryo ist ein hoch respektierter Mann und kennt die Wege des Buddhismus auswendig. Dörfler fragen ihn meist um Rat wie man mit sich slebt in Frieden leben kann.
+
+<darkblue>Noufu のうふ: Bauer
+Bauer beuen Gebäude und helfen mit der Reisernte. Ausserdem schlachten sie Hühner. Für sie gibt es keine Pause.
+NEW_PAGE
+<darkred>Kinder
+
+<darkblue>Danshi だんし: Jugendlicher
+Alt genug um umzuziehen und einem eigenen Beruf nachzugehen. Alle Danshi träumen davon Krieger zu werden doch bleibt dieser Traum meist unerfüllt.
+
+<darkblue>Jou じょう: Jugendliche
+Sie ist alt genung um auszuziehen und zu heiraten. Sie setzt dann die Fähigkeiten ein die sie von ihrer Mutter lernte.
+
+<darkblue>Otokonoko おとこのこ: Junge
+Spielt im Dorf herum und wird langsam älter.
+
+<darkblue>Onnanoko おんなのこ: Mädchen
+Spielt im Dorf herum und wird langsam älter.

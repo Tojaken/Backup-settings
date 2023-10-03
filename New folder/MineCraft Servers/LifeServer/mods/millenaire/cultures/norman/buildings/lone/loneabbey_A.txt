@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=20
+building.buildingorientation=0
+
+building.icon=book
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Abbaye
+initial.priority=3000
+initial.male=loneabbot
+initial.male=lonemonk
+initial.male=lonemonk
+initial.tag=oven
+initial.tag=cattle
+initial.tag=bakery
+initial.shop=loneabbey
+
+//Parameters for specific upgrades

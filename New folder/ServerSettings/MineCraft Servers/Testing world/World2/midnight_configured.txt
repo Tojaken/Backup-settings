@@ -1,0 +1,3 @@
+Midnight configured!
+This file is used by the Midnight mod to ensure that world generator configs aren't overwritten when loading the world.
+DO NOT DELETE THIS FILE, OTHERWISE YOUR WORLD GEN CONFIG WILL RESET UPON WORLD LOAD!!!

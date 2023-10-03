@@ -1,0 +1,13 @@
+Ark Server Stat guide
+PerLevelStatsMultiplier_Player[0]=1.0 health
+PerLevelStatsMultiplier_Player[1]=1.1 Stamina
+PerLevelStatsMultiplier_Player[2]=1.2 torpidity
+PerLevelStatsMultiplier_Player[3]=1.3 Oxygen
+PerLevelStatsMultiplier_Player[4]=1.4 food
+PerLevelStatsMultiplier_Player[5]=1.5 water
+PerLevelStatsMultiplier_Player[6]=1.6 Temp
+PerLevelStatsMultiplier_Player[7]=1.7 Weight
+PerLevelStatsMultiplier_Player[8]=1.8 Melee
+PerLevelStatsMultiplier_Player[9]=1.9 Speed
+PerLevelStatsMultiplier_Player[10]=2 Temp Fortitude
+PerLevelStatsMultiplier_Player[11]=3 Crafting 

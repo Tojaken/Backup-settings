@@ -1,0 +1,37 @@
+//; 
+display_start=true
+
+//; 
+travel_book_learning=true
+
+//; 
+generate_help_data=false
+
+//; 
+display_names=true
+
+//; 
+villagers_sentence_in_chat_distance_client=0
+
+//; 
+villagers_sentence_in_chat_distance_sp=6
+
+//; 
+bonus_code=
+
+//; 
+villagers_names_distance=12
+
+//; 
+language_learning=true
+
+//Unique random identifier to count unique players if statistics are enabled
+random_uid=3913945082222377984
+
+//Advancement completed for anonymous statistics
+advancements_creative=
+
+//Advancement completed for anonymous statistics
+advancements_survival=
+
+validation=346190835

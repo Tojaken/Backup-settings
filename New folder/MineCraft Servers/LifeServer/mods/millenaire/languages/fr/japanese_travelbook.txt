@@ -1,0 +1,1 @@
+travelbook.culture.desc=Le peuple heian vient d'un groupe d'îles dans le vaste océan. Ils appelent leur terre "Nihon", ce qui signifie "l'origine du soleil". Cette culture est connue pour son artisanat, ses guerriers disciplinés et sa grande littérature.

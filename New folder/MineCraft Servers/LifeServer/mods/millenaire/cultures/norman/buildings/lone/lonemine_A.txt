@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=8
+building.buildingorientation=0
+building.showtownhallsigns=false
+
+building.icon=normanpickaxe
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Mine
+initial.priority=3000
+initial.male=loneminer
+initial.shop=lonemine
+

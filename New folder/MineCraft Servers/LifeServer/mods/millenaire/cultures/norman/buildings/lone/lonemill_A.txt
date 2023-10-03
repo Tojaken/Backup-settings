@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=9
+building.buildingorientation=3
+building.showtownhallsigns=false
+building.startinggood=bread,1.0,8,16
+
+building.icon=bread
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Moulin à eau isolé
+initial.male=lonemiller
+initial.tag=bakery
+initial.shop=lonemill
+
